@@ -1,0 +1,43 @@
+
+
+.aw {
+	
+	width: 50px;
+	height: 30px;
+	background-color: Aqua;
+	border: 5px solid red;
+	border-radius: 30px;
+	display: inline-block;
+
+
+	
+}
+
+
+
+.w {
+	
+	width: 50px;
+	height: 30px;
+	background-color: green;
+	border: 5px solid red;
+	border-radius: 30px;
+	display: inline-block;
+
+
+	
+}
+
+
+
+.a {
+	
+	width: 50px;
+	height: 30px;
+	background-color: #03fc28;
+	border: 5px solid red;
+	border-radius: 30px;
+	display: inline-block;
+
+	
+}
